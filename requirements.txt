@@ -1,0 +1,5 @@
+# Bibliotecas utilizadas
+pyautogui
+selenium
+pandas
+python-dotenv
