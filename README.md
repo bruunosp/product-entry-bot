@@ -7,6 +7,9 @@ Two different scripts were developed for this purpose:
 - ✅ **Selenium version** – runs in the background using HTML elements (recommended).
 - ✅ **PyAutoGUI version** – uses mouse/keyboard automation and requires full control of your screen.
 
+This README is in English.  
+[Leia este documento em português](README_pt-BR.md)
+
 ---
 
 ## 📌 Technologies Used
